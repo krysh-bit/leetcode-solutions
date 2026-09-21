@@ -4,17 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krysh-bit/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krysh-bit/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krysh-bit/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
