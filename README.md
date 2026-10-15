@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krysh-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krysh-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/krysh-bit/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/krysh-bit/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krysh-bit/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/krysh-bit/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/krysh-bit/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/krysh-bit/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
