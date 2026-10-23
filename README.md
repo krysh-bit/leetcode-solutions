@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/krysh-bit/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/krysh-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krysh-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/krysh-bit/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/krysh-bit/leetcode-solutions/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/krysh-bit/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krysh-bit/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/krysh-bit/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/krysh-bit/leetcode-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
