@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krysh-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/krysh-bit/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krysh-bit/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krysh-bit/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krysh-bit/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/krysh-bit/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/krysh-bit/leetcode-solutions/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/krysh-bit/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/krysh-bit/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krysh-bit/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/krysh-bit/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krysh-bit/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krysh-bit/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/krysh-bit/leetcode-solutions/tree/master/0415-add-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/krysh-bit/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
